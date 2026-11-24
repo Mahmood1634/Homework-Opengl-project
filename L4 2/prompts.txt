@@ -1,0 +1,24 @@
+PROMPTS USED FOR THE HOMEWORK  (required by the assignment: one txt file with ALL prompts)
+================================================================================
+Team: <names>            Date: 22/11/2026
+
+NOTE: paste your exact messages below. Replace/extend this file with every prompt you really sent
+(including follow-ups). Do not delete prompts - the assignment asks for ALL of them.
+
+--------------------------------------------------------------------------------
+Prompt 1
+--------------------------------------------------------------------------------
+[attached file: HW-2026.pdf - the homework description: card-game scene, two cameras (keys 1/2),
+G key moves a random card from the deck zone to the play zone, room with wallpaper + wooden floor,
+3 decor pieces, torn poster, optional 3D model, prompts file, optional GitHub bonus]
+
+"this the structure for my previous lecture in college [project tree of L4: CMakeLists.txt, GLProject/
+(Main.cpp, shaders, textures, models), OpenGL.SharedModule/ (src/abstraction, src/implementation, dependencies)]
+and this the homework file that i need to do but with keeping the structure as in i sent it to you so i want
+from you the full code for the homework and double check that it is working then tell me where to put each
+photo and things that are from outside the code and tell me if there are other missing details i need to get it"
+
+--------------------------------------------------------------------------------
+Prompt 2
+--------------------------------------------------------------------------------
+[paste your next message here]

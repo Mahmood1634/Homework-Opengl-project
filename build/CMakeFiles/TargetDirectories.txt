@@ -1,0 +1,4 @@
+C:/Users/kekom/OneDrive/Desktop/L4 2/build/CMakeFiles/OpenGLSharedModule.dir
+C:/Users/kekom/OneDrive/Desktop/L4 2/build/CMakeFiles/GLProject.dir
+C:/Users/kekom/OneDrive/Desktop/L4 2/build/CMakeFiles/edit_cache.dir
+C:/Users/kekom/OneDrive/Desktop/L4 2/build/CMakeFiles/rebuild_cache.dir

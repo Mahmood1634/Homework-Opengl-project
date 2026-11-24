@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/kekom/OneDrive/Desktop/L4 2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DASSET_ROOT=\"\\\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/GLProject/\\\"\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src/abstraction\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/dependencies/include\" -g -o CMakeFiles\\OpenGLSharedModule.dir\\OpenGL.SharedModule\\src\\glad.c.obj -c \"C:\\Users\\kekom\\OneDrive\\Desktop\\L4 2\\L4 2\\OpenGL.SharedModule\\src\\glad.c\"",
+  "file": "C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src/glad.c",
+  "output": "C:/Users/kekom/OneDrive/Desktop/L4 2/build/CMakeFiles/OpenGLSharedModule.dir/OpenGL.SharedModule/src/glad.c.obj"
+},
+{
+  "directory": "C:/Users/kekom/OneDrive/Desktop/L4 2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DASSET_ROOT=\"\\\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/GLProject/\\\"\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src/abstraction\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/dependencies/include\" -g -std=gnu++17 -o CMakeFiles\\OpenGLSharedModule.dir\\OpenGL.SharedModule\\src\\stb_image.cpp.obj -c \"C:\\Users\\kekom\\OneDrive\\Desktop\\L4 2\\L4 2\\OpenGL.SharedModule\\src\\stb_image.cpp\"",
+  "file": "C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src/stb_image.cpp",
+  "output": "C:/Users/kekom/OneDrive/Desktop/L4 2/build/CMakeFiles/OpenGLSharedModule.dir/OpenGL.SharedModule/src/stb_image.cpp.obj"
+},
+{
+  "directory": "C:/Users/kekom/OneDrive/Desktop/L4 2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DASSET_ROOT=\"\\\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/GLProject/\\\"\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src/abstraction\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/dependencies/include\" -g -std=gnu++17 -o CMakeFiles\\OpenGLSharedModule.dir\\OpenGL.SharedModule\\src\\implementation\\SharedModule.cpp.obj -c \"C:\\Users\\kekom\\OneDrive\\Desktop\\L4 2\\L4 2\\OpenGL.SharedModule\\src\\implementation\\SharedModule.cpp\"",
+  "file": "C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src/implementation/SharedModule.cpp",
+  "output": "C:/Users/kekom/OneDrive/Desktop/L4 2/build/CMakeFiles/OpenGLSharedModule.dir/OpenGL.SharedModule/src/implementation/SharedModule.cpp.obj"
+},
+{
+  "directory": "C:/Users/kekom/OneDrive/Desktop/L4 2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DASSET_ROOT=\"\\\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/GLProject/\\\"\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src/abstraction\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/dependencies/include\" -g -std=gnu++17 -o CMakeFiles\\OpenGLSharedModule.dir\\OpenGL.SharedModule\\src\\implementation\\Drawer.cpp.obj -c \"C:\\Users\\kekom\\OneDrive\\Desktop\\L4 2\\L4 2\\OpenGL.SharedModule\\src\\implementation\\Drawer.cpp\"",
+  "file": "C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src/implementation/Drawer.cpp",
+  "output": "C:/Users/kekom/OneDrive/Desktop/L4 2/build/CMakeFiles/OpenGLSharedModule.dir/OpenGL.SharedModule/src/implementation/Drawer.cpp.obj"
+},
+{
+  "directory": "C:/Users/kekom/OneDrive/Desktop/L4 2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DASSET_ROOT=\"\\\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/GLProject/\\\"\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src/abstraction\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/dependencies/include\" -g -std=gnu++17 -o CMakeFiles\\OpenGLSharedModule.dir\\OpenGL.SharedModule\\src\\implementation\\OpenGlShape.cpp.obj -c \"C:\\Users\\kekom\\OneDrive\\Desktop\\L4 2\\L4 2\\OpenGL.SharedModule\\src\\implementation\\OpenGlShape.cpp\"",
+  "file": "C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src/implementation/OpenGlShape.cpp",
+  "output": "C:/Users/kekom/OneDrive/Desktop/L4 2/build/CMakeFiles/OpenGLSharedModule.dir/OpenGL.SharedModule/src/implementation/OpenGlShape.cpp.obj"
+},
+{
+  "directory": "C:/Users/kekom/OneDrive/Desktop/L4 2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DASSET_ROOT=\"\\\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/GLProject/\\\"\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src/abstraction\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/dependencies/include\" -g -std=gnu++17 -o CMakeFiles\\OpenGLSharedModule.dir\\OpenGL.SharedModule\\src\\implementation\\Camera.cpp.obj -c \"C:\\Users\\kekom\\OneDrive\\Desktop\\L4 2\\L4 2\\OpenGL.SharedModule\\src\\implementation\\Camera.cpp\"",
+  "file": "C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src/implementation/Camera.cpp",
+  "output": "C:/Users/kekom/OneDrive/Desktop/L4 2/build/CMakeFiles/OpenGLSharedModule.dir/OpenGL.SharedModule/src/implementation/Camera.cpp.obj"
+},
+{
+  "directory": "C:/Users/kekom/OneDrive/Desktop/L4 2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DASSET_ROOT=\"\\\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/GLProject/\\\"\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src/abstraction\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src\" -I\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/dependencies/include\" -g -std=gnu++17 -o CMakeFiles\\GLProject.dir\\GLProject\\Main.cpp.obj -c \"C:\\Users\\kekom\\OneDrive\\Desktop\\L4 2\\L4 2\\GLProject\\Main.cpp\"",
+  "file": "C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/GLProject/Main.cpp",
+  "output": "C:/Users/kekom/OneDrive/Desktop/L4 2/build/CMakeFiles/GLProject.dir/GLProject/Main.cpp.obj"
+}
+]

@@ -1,0 +1,12 @@
+# ninja log v7
+47	1082	8170508855560608	CMakeFiles/OpenGLSharedModule.dir/OpenGL.SharedModule/src/implementation/SharedModule.cpp.obj	df3c21af1205ba18
+37	1832	8170508855460600	CMakeFiles/OpenGLSharedModule.dir/OpenGL.SharedModule/src/stb_image.cpp.obj	27415bb01a45f684
+27	2767	8170508855360600	CMakeFiles/OpenGLSharedModule.dir/OpenGL.SharedModule/src/glad.c.obj	1743472bc131eee6
+32	1152	8170620383734322	CMakeFiles/OpenGLSharedModule.dir/OpenGL.SharedModule/src/implementation/Drawer.cpp.obj	4c1237cd393c3f0b
+65	1478	8170508855734858	CMakeFiles/OpenGLSharedModule.dir/OpenGL.SharedModule/src/implementation/OpenGlShape.cpp.obj	28a80e1658cbb33e
+27	2087	8170612970239579	CMakeFiles/GLProject.dir/GLProject/Main.cpp.obj	d5dd8a1a4d20b6d4
+1153	1516	8170620394942642	libOpenGLSharedModule.a	2e514813b6f67cce
+1173	1568	8170616161012442	GLProject.exe	8d587e0b204110a0
+26	419	8170598461944018	CMakeFiles/OpenGLSharedModule.dir/OpenGL.SharedModule/src/implementation/Camera.cpp.obj	c4e2b58fb98c9560
+29	1857	8170633210120089	CMakeFiles/GLProject.dir/GLProject/Main.cpp.obj	d5dd8a1a4d20b6d4
+1858	2222	8170633228416024	GLProject.exe	8d587e0b204110a0

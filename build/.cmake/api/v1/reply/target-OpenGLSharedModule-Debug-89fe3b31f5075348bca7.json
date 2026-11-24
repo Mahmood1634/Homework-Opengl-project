@@ -1,0 +1,265 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "libOpenGLSharedModule.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"target_compile_definitions",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 41,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 32,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 25,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 12
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "ASSET_ROOT=\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/GLProject/\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src/abstraction"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/dependencies/include"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++17"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "ASSET_ROOT=\"C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/GLProject/\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src/abstraction"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/dependencies/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		}
+	],
+	"id" : "OpenGLSharedModule::@6890427a1f51a3e7e1df",
+	"interfaceIncludes" : 
+	[
+		{
+			"path" : "C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src/abstraction"
+		},
+		{
+			"path" : "C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/src"
+		},
+		{
+			"path" : "C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/dependencies/include"
+		}
+	],
+	"interfaceLinkLibraries" : 
+	[
+		{
+			"backtrace" : 2,
+			"fragment" : "C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/dependencies/libs/libglfw3.a"
+		},
+		{
+			"backtrace" : 2,
+			"fragment" : "opengl32"
+		}
+	],
+	"linkLibraries" : 
+	[
+		{
+			"backtrace" : 2,
+			"fragment" : "C:/Users/kekom/OneDrive/Desktop/L4 2/L4 2/OpenGL.SharedModule/dependencies/libs/libglfw3.a"
+		},
+		{
+			"backtrace" : 2,
+			"fragment" : "opengl32"
+		}
+	],
+	"name" : "OpenGLSharedModule",
+	"nameOnDisk" : "libOpenGLSharedModule.a",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"backtraces" : 
+			[
+				1
+			],
+			"compileGroupIndex" : 0,
+			"path" : "OpenGL.SharedModule/src/glad.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"backtraces" : 
+			[
+				1
+			],
+			"compileGroupIndex" : 1,
+			"path" : "OpenGL.SharedModule/src/stb_image.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"backtraces" : 
+			[
+				1
+			],
+			"compileGroupIndex" : 1,
+			"path" : "OpenGL.SharedModule/src/implementation/SharedModule.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"backtraces" : 
+			[
+				1
+			],
+			"compileGroupIndex" : 1,
+			"path" : "OpenGL.SharedModule/src/implementation/Drawer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"backtraces" : 
+			[
+				1
+			],
+			"compileGroupIndex" : 1,
+			"path" : "OpenGL.SharedModule/src/implementation/OpenGlShape.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"backtraces" : 
+			[
+				1
+			],
+			"compileGroupIndex" : 1,
+			"path" : "OpenGL.SharedModule/src/implementation/Camera.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}
